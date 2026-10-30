@@ -1,0 +1,10 @@
+{
+  "appId": "com.loqta.app",
+  "appName": "LOQTA",
+  "webDir": "www",
+  "android": { "backgroundColor": "#0D4F8B" },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 1200, "backgroundColor": "#0D4F8B", "showSpinner": false },
+    "StatusBar": { "style": "DARK", "backgroundColor": "#0D4F8B" }
+  }
+}

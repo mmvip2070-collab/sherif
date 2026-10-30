@@ -1,0 +1,11 @@
+{
+  "name": "loqta",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LOQTA - لقطة: يومك لقطة مع لقطة",
+  "scripts": {
+    "icons": "capacitor-assets generate --android",
+    "sync": "cap sync android",
+    "open": "cap open android"
+  }
+}
